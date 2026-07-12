@@ -198,7 +198,7 @@
 
 - **[ai-coding-from-china](https://github.com/cocodot2026/ai-coding-from-china)** —— 国内跑通 Claude Code / Cursor / Cline 的完整方法（Claude Code Skill）
 - **[relay-doctor](https://github.com/cocodot2026/relay-doctor)** —— 一条命令体检任意中转
-- **[LLMprobe](https://github.com/cocodot2026/LLMprobe)** —— 验中转有没有降智
+- **[cocodot-llmprobe](https://github.com/cocodot2026/cocodot-llmprobe)** —— 验中转有没有降智
 - **[ccsetup](https://github.com/cocodot2026/ccsetup)** / **[ai-api-cost](https://github.com/cocodot2026/ai-api-cost)** —— 一键配置 / 成本估算
 
 ---

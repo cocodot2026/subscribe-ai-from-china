@@ -192,6 +192,17 @@
 **付 Cursor / 广告 / API 能用礼品卡吗?** 不能,App 外的支付只能用虚拟卡。
 **一年下来哪种最便宜?** 长期多服务,虚拟卡最省(没有每次溢价)。
 
+## 🧰 开发者向：只调 API 的看这里
+
+如果你不是来买卡、而是来调 Claude / GPT API 的，有一套免费开源工具箱：
+
+- **[ai-coding-from-china](https://github.com/cocodot2026/ai-coding-from-china)** —— 国内跑通 Claude Code / Cursor / Cline 的完整方法（Claude Code Skill）
+- **[relay-doctor](https://github.com/cocodot2026/relay-doctor)** —— 一条命令体检任意中转
+- **[LLMprobe](https://github.com/cocodot2026/LLMprobe)** —— 验中转有没有降智
+- **[ccsetup](https://github.com/cocodot2026/ccsetup)** / **[ai-api-cost](https://github.com/cocodot2026/ai-api-cost)** —— 一键配置 / 成本估算
+
+---
+
 ## 更新日志
 - **2026-06**:首版。涵盖代充 / 礼品卡 / 虚拟卡 / API 中转四方案、各服务注意点、
   成本对比、排查与安全。WildCard 已停业提示。

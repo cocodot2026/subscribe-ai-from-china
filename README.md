@@ -8,7 +8,7 @@
 > 客观摆出来:代充、美区礼品卡、虚拟卡、API 中转——**怎么操作、花多少钱、有什么坑、
 > 适合谁**,一次讲清。
 
-**📅 最后更新:2026-06** · **利益相关声明:** 作者在做 [cocodot](https://cocodot.co)
+**📅 最后更新:2026-06** · **利益相关声明:** 作者在做 [cocodot](https://cocodot.co?utm_source=github&utm_medium=readme&utm_campaign=subscribe-ai-from-china)
 (一个"访问 + 付款"工具),下文会提到它,但这里把**所有主流方案(含竞品)**一起对比,
 你看完自己选,**别只信我**。欢迎 Issue / PR 纠错与更新。
 
